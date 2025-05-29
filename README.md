@@ -4,6 +4,8 @@ A pre-configured OBS Studio setup for JS/PY/RB Meetup recordings.
 
 ![an example of a configured OBS studio setup](demo.png)
 
+🎬 [See a real example on YouTube](https://www.youtube.com/watch?v=V1W5v33yyt4&t=527s)
+
 ## Notes
 
 - This setup is only confirmed to work on a M1 Mac. You may need to adjust encoding and/or other output settings for your specific hardware, but perhaps not.
